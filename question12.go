@@ -1,3 +1,4 @@
+//sort an array in descending order
 package main
 
 import "fmt"
